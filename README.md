@@ -1,0 +1,1 @@
+# djangonautic_blog_djangoPractice
